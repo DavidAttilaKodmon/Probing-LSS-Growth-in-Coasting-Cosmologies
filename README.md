@@ -1,6 +1,8 @@
 ## Repository for "Probing the Growth of Large-Scale Structures in a Coasting Universe"
 
-This repository contains the programs used to perform the curve fitting and Anderson-Darling tests for the article **Probing the Growth of Large-Scale Structures in a Coasting Universe** by Dávid A. Ködmön and Péter Raffai, submitted to the  _The Astrophysical Journal_ on the 13th of October, 2024. 
+This repository contains the programs used to perform the curve fitting and Anderson-Darling tests for the article **Probing the Growth of Large-Scale Structures in a Coasting Universe** by Dávid A. Ködmön (Institute of Physics and Astronomy, ELTE Eötvös Loránd University, 1117 Budapest, Hungary) and Péter Raffai (Institute of Physics and Astronomy, ELTE Eötvös Loránd University, 1117 Budapest, Hungary; HUN-REN–ELTE Extragalactic Astrophysics Research Group, 1117 Budapest, Hungary), submitted to the  _The Astrophysical Journal_ on the 14th of October, 2024. 
+
+Corresponding author: Dávid A. Ködmön (davidkodmon@student.elte.hu)
 
 - Dependencies:
    - **Python 3**
